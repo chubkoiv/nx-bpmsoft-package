@@ -1,1 +1,1 @@
-# nx-bpmsoft-package
+# K2Angular example

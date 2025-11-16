@@ -1,0 +1,16 @@
+﻿{
+  "Descriptor": {
+    "UId": "377cb2b5-3484-4dfb-25e1-bfa07f21dbe7",
+    "Name": "K2Angular",
+    "BPMSoftVersion": "1.8.0",
+    "ModifiedOnUtc": "\/Date(1763274024000)\/",
+    "Maintainer": "K2tech",
+    "DependsOn": [
+      {
+        "UId": "613fd913-be03-46ce-909b-f44e4225469e",
+        "PackageVersion": "1.0.0",
+        "Name": "UIv2"
+      }
+    ]
+  }
+}
